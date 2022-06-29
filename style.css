@@ -1,0 +1,26 @@
+main {
+    color: white ;
+    text-align: center;
+    width: 850px;
+    height: 450px;
+    background-image: url(./planet.jpg);
+    background-size: cover;
+}
+
+h1 {
+    padding: 200px;
+}
+
+section {
+    height 324px;
+    width: 850px;
+    display: flex;
+    justify-content: space-between;
+    border: 20px solid white;
+    text-align: center;
+}
+
+article {
+    height 324px;
+    width: 270px;
+}
