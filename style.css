@@ -20,6 +20,10 @@ h1 {
     padding: 200px;
 }
 
+h2 {
+    font-size: 20px;
+}
+
 section {
     height: 324px;
     width: 850px;
@@ -27,7 +31,6 @@ section {
     justify-content: space-between;
     text-align: center;
     background-color: #EEEEEE;
-    ;
     flex-direction: row;
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
@@ -37,4 +40,10 @@ article {
     height: 324px;
     width: 270px;
     padding: 20px;
+}
+
+p {
+    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 20px;
 }
